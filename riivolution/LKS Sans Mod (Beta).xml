@@ -1,0 +1,25 @@
+<wiidisc version="1">
+    <id game="RO3" />
+    <options>
+        <section name="Sans Undertale">
+            <option name="hey pal, hurry up and enable my mod, i've got a date with grillby at 6">
+                <choice name="It’s a beautiful day outside. Birds are singing, flowers are blooming... on days like these, kings like you... Should be burning in hell.">
+                    <patch id="sans" />
+                </choice>
+            </option>
+        </section>
+    </options>
+    <patch id="sans">
+	    <folder external="/Sans Mod Beta/Resources" disc="/res" />
+		<file external="/Sans Mod Beta/Character/cbData1.pac" disc="/chr/cbData1.pac" />
+		<file external="/Sans Mod Beta/Character/cb0021.pcha" disc="/chr/cb0021.pcha" />
+		<file external="/Sans Mod Beta/LifeSim/npcTalk.pac0" disc="/lifesim/TalkMessage/1/npcTalk.pac0" />
+		<folder external="/Sans Mod Beta/Sound" disc="/snd" />
+		<file external="/Sans Mod Beta/Sound/Stream/M66.brstm" disc="/snd/stream/M66.brstm" create="true"/>
+		<file external="/Sans Mod Beta/Sound/Stream/M67.brstm" disc="/snd/stream/M67.brstm" create="true"/>
+		<folder external="/Sans Mod Beta/Message/1" disc="/mes/1" />
+		<file external="/Sans Mod Beta/System/MenuDB/menuDB_6_1.pac" disc="/sys/menuDB/menuDB_6_1.pac" />
+		<file external="/Sans Mod Beta/Message/font0.pac" disc="/mes/font0.pac" />
+		<file external="/Sans Mod Beta/Message/font2.pac" disc="/mes/font2.pac" />
+    </patch>
+</wiidisc>
