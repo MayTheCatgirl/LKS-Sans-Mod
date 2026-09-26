@@ -20,7 +20,7 @@ If you already have Riivolution mods installed the two "riivolution" folders sho
 
 If not manually copy the XML file inside
 
-#Credits
+# Credits
 Special thanks to Bedrock_III and Luke_TM for helping me figure out the special hell that is modding this game
 
 Less special thanks to whoever wanted this nonsense
