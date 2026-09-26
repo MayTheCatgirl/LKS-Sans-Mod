@@ -15,7 +15,7 @@ I have changed a good portion of his dialogue but no I am not rewriting the enti
 Help
 
 # Installation
-Copy the Sans Mod Beta and riivolution folders to C:\Users\[user]\Documents\Dolphin Emulator\Load\Riivolution
+Copy the Sans Mod Beta and riivolution folders to C:\Users\\[user]\Documents\Dolphin Emulator\Load\Riivolution
 
 If you already have Riivolution mods installed the two "riivolution" folders should merge
 
